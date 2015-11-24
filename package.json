@@ -1,0 +1,25 @@
+{
+  "name": "aita-drupal",
+  "version": "0.0.0",
+  "description": "gulp dependencies for an easily-automated front-end workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwboone/aita.git"
+  },
+  "keywords": [
+    "aita",
+    "drupal",
+    "npm",
+    "gulp",
+    "dependencies"
+  ],
+  "author": "rwboone@liquid-creative.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwboone/aita/issues"
+  }
+}
